@@ -1,18 +1,19 @@
----
-title: flask环境配置
-tags: flask,环境配置,windows,osx
-grammar_cjkRuby: true
----
-
 <h3>flask环境配置</h3>
 
 [1. 前言](#content1)
+
 [2. OSX环境配置](#content2)
+
 　　[2.1 安装python/虚拟环境/flask](#content21)
+  
 　　[2.2 安装MySQL/pymysql/SQLAlchemy](#content22)
+  
 [3. windows环境配置](#windows)
+
 　　[3.1 安装python/虚拟环境/flask](#content31)
+  
 　　[3.2 安装MySQL/pymysql/SQLAlchemy](#content32)
+  
 
 <span id='content1'><h5>前言</h5></span>
 使用pycharm作为ide开发, ide在创建工程时会帮你建立虚拟环境/flask环境等, 否则需要自己配置开发环境
